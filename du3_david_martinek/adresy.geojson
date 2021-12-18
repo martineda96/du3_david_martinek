@@ -918,6 +918,27 @@
       {
         "type": "Feature",
         "properties": {
+          "@id": "node/296591155",
+          "addr:conscriptionnumber": "1726",
+          "addr:housenumber": "1726/6",
+          "addr:postcode": "14900",
+          "addr:street": "Valentova",
+          "addr:streetnumber": "6",
+          "source:addr": "uir_adr",
+          "uir_adr:ADRESA_KOD": "21842825"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.5070064,
+            50.0330731
+          ]
+        },
+        "id": "node/296591155"
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "@id": "node/296446759",
           "addr:conscriptionnumber": "406",
           "addr:housenumber": "406/10",
@@ -1014,7 +1035,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            14.5013877,
+            14.4945327,
             50.0264809
           ]
         },
