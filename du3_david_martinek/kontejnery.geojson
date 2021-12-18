@@ -988,6 +988,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -737646.2000022866, -1041056.3199524023 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3762,
+				"ID" : 4547,
+				"STATIONNUMBER" : "0009/ 151",
+				"STATIONNAME" : "Podvinný mlýn 2347/24",
+				"CITYDISTRICTRUIANCODE" : 500216,
+				"CITYDISTRICT" : "Praha 9",
+				"PRISTUP" : "volně"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -740430.6100438945, -1045333.770048216 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3763,
+				"ID" : 4548,
+				"STATIONNUMBER" : "0010/ 266",
+				"STATIONNAME" : "náměstí Svatopluka Čecha 1346/1",
+				"CITYDISTRICTRUIANCODE" : 500224,
+				"CITYDISTRICT" : "Praha 10",
+				"PRISTUP" : "volně"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -733446.8199936226, -1048630.8100054264 ]
 			},
 			"properties" : {
